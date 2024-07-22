@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :7: for Floccus bookmark sync browser extension -->
+<!--- highestId :8: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>SRE</title>
@@ -19,6 +19,9 @@
   </bookmark>
   <bookmark href="https://csdiy.wiki/" id="6">
     <title>CS自学指南</title>
+  </bookmark>
+  <bookmark href="https://raw.githubusercontent.com/sharjeelsayed/learn.sharjeelsayed.com/master/selfupgradeitprof.txt" id="8">
+    <title>raw.githubusercontent.com/sharjeelsayed/learn.sharjeelsayed.com/master/selfupgradeitprof.txt</title>
   </bookmark>
 </folder>
 <bookmark href="https://deepbricks.ai/api-key" id="7">
