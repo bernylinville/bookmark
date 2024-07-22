@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3: for Floccus bookmark sync browser extension -->
+<!--- highestId :4: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>SRE</title>
@@ -10,6 +10,9 @@
   </bookmark>
   <bookmark href="https://martinliu.cn/" id="3">
     <title>Martin Liu&apos;s Blog | SRE,SRE培训,SRE认证,SRE考试,SRE课程,SRE标准,可观测性培训,AIOps培训</title>
+  </bookmark>
+  <bookmark href="https://devopscube.com/" id="4">
+    <title>DevOpsCube - Learn DevOps | Software &amp; Platform Reviews</title>
   </bookmark>
 </folder>
 </xbel>
