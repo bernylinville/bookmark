@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :9: for Floccus bookmark sync browser extension -->
+<!--- highestId :10: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>SRE</title>
@@ -25,6 +25,9 @@
   </bookmark>
   <bookmark href="https://www.sre-elite.com/" id="9">
     <title>SRE精英联盟 | 引领、研究、发展SRE</title>
+  </bookmark>
+  <bookmark href="https://cloudnative.to/" id="10">
+    <title>云原生社区（中国）</title>
   </bookmark>
 </folder>
 <bookmark href="https://deepbricks.ai/api-key" id="7">
