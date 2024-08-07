@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :11: for Floccus bookmark sync browser extension -->
+<!--- highestId :12: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>SRE</title>
@@ -31,6 +31,9 @@
   </bookmark>
   <bookmark href="https://greatsql.cn/" id="11">
     <title>GreatSQL社区 - Powered by Discuz!（万里开源技术社区）</title>
+  </bookmark>
+  <bookmark href="https://www.linuxmi.com/" id="12">
+    <title>Linux迷 - 分享Linux和编程</title>
   </bookmark>
 </folder>
 <bookmark href="https://deepbricks.ai/api-key" id="7">
