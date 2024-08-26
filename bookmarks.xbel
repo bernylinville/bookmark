@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :15: for Floccus bookmark sync browser extension -->
+<!--- highestId :16: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>SRE</title>
@@ -43,6 +43,9 @@
   </bookmark>
   <bookmark href="https://learn.gitlab.com/allremote/remote-playbook" id="15">
     <title>Remote Playbook</title>
+  </bookmark>
+  <bookmark href="https://versun.me/54321-weekly/" id="16">
+    <title>54321 Weekly – 每周六分享科技趣闻</title>
   </bookmark>
 </folder>
 <bookmark href="https://deepbricks.ai/api-key" id="7">
