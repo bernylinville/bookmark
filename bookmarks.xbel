@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :14: for Floccus bookmark sync browser extension -->
+<!--- highestId :15: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>SRE</title>
@@ -40,6 +40,9 @@
   </bookmark>
   <bookmark href="https://gitee.com/zhenliangli/kubernetes-book" id="14">
     <title>kubernetes-book: 《Kubernetes企业级云原生运维实战》一书的配套文件。</title>
+  </bookmark>
+  <bookmark href="https://learn.gitlab.com/allremote/remote-playbook" id="15">
+    <title>Remote Playbook</title>
   </bookmark>
 </folder>
 <bookmark href="https://deepbricks.ai/api-key" id="7">
